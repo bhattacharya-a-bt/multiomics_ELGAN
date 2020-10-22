@@ -1,5 +1,5 @@
 # multiomics_ELGAN
-Code for "Evidence for the Placenta-Brain Axis: Multi-Omic Kernel Aggregation Predicts Intellectual and Social Impairment in Children Born Extremely Preterm" (Santos and Bhattacharya, 2020)
+Code for the working paper: ["Evidence for the Placenta-Brain Axis: Multi-Omic Kernel Aggregation Predicts Intellectual and Social Impairment in Children Born Extremely Preterm" (Santos and Bhattacharya et al, 2020)](https://www.biorxiv.org/content/10.1101/2020.07.19.211029v2)
 
 - kernel_regressions.R provides functions that were used for linear kernel, Gaussian kernel, and elastic net regression for outcomes
 - EWAS_example.R provides functions that were used to conduct EWAS to find outcome-associated CpG site
